@@ -3,7 +3,7 @@
 A demo showing how to generate Observable Plot charts server-side (SSR). Read
 more about how this code works and why it's useful in my article: [SvelteKit
 Magic: Server-Side Rendering for Observable Plot
-Explained](https://travishorn.com).
+Explained](https://travishorn.com/sveltekit-magic-server-side-rendering-for-observable-plot-explained).
 
 ## Installation
 
